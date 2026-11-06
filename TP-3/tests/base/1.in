@@ -1,0 +1,18 @@
+U Ana 21 BeloHorizonte MG Brasileira
+U Bruno 24 SaoPaulo SP Brasileira
+U Carla 30 BeloHorizonte MG Argentina
+P Mouse 80.00 5 Informatica Logitech Novo
+P Notebook 3500.00 2 Informatica Dell Novo
+P Livro 50.00 4 Livros Pearson Usado
+LU cidade BeloHorizonte
+C 100 0 0 2 1 1
+C 120 1 0 4
+R 125 0 3
+C 130 1 0 4 2 1
+LU nacionalidade Brasileira
+LP nome Mouse
+LC id_usuario 0
+LC id_produto 0
+LR id_produto 0
+LP id 1
+LU nome Carla

@@ -1,0 +1,11 @@
+U Ana 20 BH MG BR
+P Mouse 10.00 2 Cat Brand Novo
+P Teclado 20.00 1 Cat Brand Novo
+C 10 0 0 2 1 1
+C 11 0 0 1
+LP id 0
+LC id 1
+R 12 0 5
+C 13 0 0 3
+LU id 0
+LP id 0

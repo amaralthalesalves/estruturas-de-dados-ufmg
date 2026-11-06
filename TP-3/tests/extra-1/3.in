@@ -1,0 +1,7 @@
+U Ana 21 BH MG BR
+U Bruno 25 SP SP BR
+U Carla 30 BH MG AR
+U Diego 40 Rio RJ BR
+LU cidade BH OR estado SP AND NOT nome Bruno
+LU NOT cidade BH OR estado RJ
+LU nacionalidade BR AND NOT cidade BH

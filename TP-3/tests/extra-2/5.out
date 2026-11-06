@@ -1,0 +1,17 @@
+U 0
+U 1
+U 2
+P 0
+P 1
+P 2
+C 0
+C 1
+R 0
+LU resultado_1 usuario 0 Ana 18 BH MG BR
+produto_1 0 1 produto_2 1 2
+LU resultado_2 usuario 2 Cris 35 BH MG AR
+LP resultado_1 produto 0 Phone 1000.00 1 Elec A Novo
+usuario_1 0 1
+LC resultado_1 compra 0 timestamp 1 usuario 0
+produto_1 0 1 produto_2 1 2
+LR VAZIO

@@ -1,0 +1,19 @@
+U 0
+U 1
+P 0
+P 1
+P 2
+C 0
+C 1
+R 0
+R 1
+LP resultado_1 produto 1 Note 3500.00 3 Info Dell Novo
+usuario_1 1 1
+LP resultado_2 produto 2 Livro 50.00 2 Livros Pearson Usado
+usuario_1 1 1
+LC resultado_1 compra 0 timestamp 10 usuario 0
+produto_1 0 2
+LC resultado_2 compra 1 timestamp 20 usuario 1
+produto_1 1 1 produto_2 2 1
+LR resultado_1 reposicao 1 timestamp 40
+produto_1 1 2

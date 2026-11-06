@@ -1,0 +1,29 @@
+U 0
+U 1
+U 2
+P 0
+P 1
+P 2
+LU resultado_1 usuario 0 Ana 21 BeloHorizonte MG Brasileira
+LU resultado_2 usuario 2 Carla 30 BeloHorizonte MG Argentina
+C 0
+C INV
+R 0
+C 1
+LU resultado_1 usuario 0 Ana 21 BeloHorizonte MG Brasileira
+produto_1 0 2 produto_2 1 1
+LU resultado_2 usuario 1 Bruno 24 SaoPaulo SP Brasileira
+produto_1 0 4 produto_2 2 1
+LP resultado_1 produto 0 Mouse 80.00 2 Informatica Logitech Novo
+usuario_1 0 2 usuario_2 1 4
+LC resultado_1 compra 0 timestamp 100 usuario 0
+produto_1 0 2 produto_2 1 1
+LC resultado_1 compra 0 timestamp 100 usuario 0
+produto_1 0 2 produto_2 1 1
+LC resultado_2 compra 1 timestamp 130 usuario 1
+produto_1 0 4 produto_2 2 1
+LR resultado_1 reposicao 0 timestamp 125
+produto_1 0 3
+LP resultado_1 produto 1 Notebook 3500.00 1 Informatica Dell Novo
+usuario_1 0 1
+LU resultado_1 usuario 2 Carla 30 BeloHorizonte MG Argentina

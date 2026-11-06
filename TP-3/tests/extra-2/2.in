@@ -1,0 +1,8 @@
+U Ana 20 BH MG BR
+P Mouse 80.00 5 Info Logitech Novo
+P Notebook 3500.00 2 Info Dell Novo
+P Livro 50.00 4 Livros Pearson Usado
+P Cadeira 500.00 8 Moveis Flex Novo
+C 100 0 0 2 1 1
+LP preco 40.00 100.00 OR qtd 6 10 AND NOT categoria Info
+LP NOT preco 100.00 1000.00 AND condicao Novo

@@ -1,0 +1,37 @@
+A L
+T 0
+T 1
+T 2
+T 3
+T 4
+U 0
+U 1
+U 2
+U 3
+U 4
+U 5
+LT Gael
+F Cinema 2
+S Alice Bob
+S Bob Caio
+S Caio Alice
+S Dora Enzo
+S Enzo Dora
+S Gael Alice
+S Alice Gael
+LC Alice Caio Gael
+LS Alice Bob Gael
+LA Alice Gael
+Q Alice Caio 2
+Q Dora Enzo 3
+G Gael ML 0
+A M
+R Alice Gael
+Q Alice Gael 2
+LA Alice
+S Caio Bob
+LA Caio Bob
+LS Caio Alice Bob
+LC Bob Alice Caio
+F SO 3
+LT Caio ML Cinema SO

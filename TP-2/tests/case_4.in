@@ -1,0 +1,90 @@
+A L
+T IA A
+T Grafos A
+T Musica P
+T Corrida P
+T Bio A
+T Redes A
+T Algebra A
+T Jogos P
+T Compiladores A
+T Fotografia P
+U Ana 20 0 1 5
+U Bruno 21 1 2 7
+U Carla 22 0 3 9
+U Davi 23 4 5
+U Eva 24 0 1 2 3
+U Fabio 25 6
+U Gabi 26 2 7 9
+U Hugo 27 5 8
+U Iris 28 3 4 6
+U Joao 29 0 8
+U Lara 30 1 5 6 9
+U Mike 31
+S 0 1
+S 1 0
+S 0 2
+S 2 4
+S 4 0
+S 3 0
+S 0 3
+S 5 0
+S 0 5
+S 1 2
+S 2 1
+S 1 6
+S 6 1
+S 7 1
+S 1 7
+S 8 9
+S 9 8
+S 10 9
+S 9 10
+S 11 10
+S 10 11
+S 2 3
+S 3 4
+S 4 5
+S 5 6
+S 6 7
+S 7 8
+S 8 10
+S 10 2
+S 11 0
+LT 10
+LT 11
+LC 0
+LS 0
+LA 0
+Q 0 4
+Q 8 9
+G 11 0
+F 0
+F 5
+A M
+R 1 0
+R 0 3
+R 9 10
+Q 0 1
+LA 0
+LC 0
+LS 0
+Q 10 9
+A L
+S 3 2
+S 2 0
+S 4 2
+S 11 5
+S 5 11
+Q 0 2
+LA 2
+LC 5
+LS 5
+LA 5
+F 9
+G 10 6
+R 5 0
+Q 0 5
+LC 5
+LS 5
+LA 5

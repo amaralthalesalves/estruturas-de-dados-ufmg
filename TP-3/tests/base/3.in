@@ -1,0 +1,10 @@
+U Ana 20 BH MG BR
+U Ana 30 Rio RJ BR
+U Bia 20 BH MG AR
+P Mouse 50.00 5 Info A Novo
+P Mouse 60.00 5 Info B Usado
+P Livro 40.00 2 Livros A Novo
+LU nome Ana cidade BH
+LU nome Ana cidade SP
+LP nome Mouse marca A condicao Novo
+LP categoria Info condicao Usado

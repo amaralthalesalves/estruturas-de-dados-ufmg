@@ -1,0 +1,14 @@
+U 0
+P 0
+P 1
+C 0
+C INV
+LP resultado_1 produto 0 Mouse 10.00 0 Cat Brand Novo
+usuario_1 0 2
+LC VAZIO
+R 0
+C 1
+LU resultado_1 usuario 0 Ana 20 BH MG BR
+produto_1 0 5 produto_2 1 1
+LP resultado_1 produto 0 Mouse 10.00 2 Cat Brand Novo
+usuario_1 0 5

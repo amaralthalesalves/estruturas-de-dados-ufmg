@@ -1,0 +1,36 @@
+A M
+T 0
+T 1
+T 2
+T 3
+T 4
+U 0
+U 1
+U 2
+U 3
+U 4
+U 5
+LC Lia
+LS Lia
+LA Lia
+F BD 3
+G Otto Algebra 0
+S Lia Rui
+S Rui Lia
+S Mario Rui
+S Rui Nia
+S Nia Rui
+S Otto Rui
+LS Rui Lia Nia
+LC Rui Lia Mario Nia Otto
+LA Rui Lia Nia
+Q Pia Rui 0
+A L
+S Pia Rui
+Q Pia Rui 1
+LC Rui Lia Mario Nia Otto Pia
+R Rui Lia
+Q Lia Rui 1
+LA Rui Nia
+LT Rui BD Xadrez Redes Pintura Algebra
+F Algebra 3

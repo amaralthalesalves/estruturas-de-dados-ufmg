@@ -1,0 +1,12 @@
+U A 20 BH MG BR
+U B 22 Rio RJ BR
+P Mouse 80.00 5 Info Logitech Novo
+P Note 3500.00 2 Info Dell Novo
+P Livro 50.00 3 Livros Pearson Usado
+C 10 0 0 2
+C 20 1 1 1 2 1
+R 30 0 3
+R 40 1 2
+LP categoria Info AND NOT marca Logitech OR condicao Usado
+LC id_usuario 0 OR id_produto 2
+LR NOT id_produto 0 AND timestamp 40

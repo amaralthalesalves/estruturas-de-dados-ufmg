@@ -1,0 +1,11 @@
+U Ana 20 BH MG BR
+U Bob 21 SP SP BR
+P X 10.00 5 Cat M Novo
+P Y 20.00 5 Cat M Novo
+P Z 30.00 5 Cat M Novo
+C 10 0 0 1
+C 20 0 1 1
+C 30 1 1 1 2 1
+C 40 1 2 1
+LC id_usuario 0 AND id_produto 1 OR id_usuario 1 AND NOT id_produto 2
+LC NOT id_produto 1 OR timestamp 40

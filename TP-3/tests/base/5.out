@@ -1,0 +1,10 @@
+U 0
+U 1
+P 0
+P 1
+LU resultado_1 usuario 0 A 10 C1 S N
+LU resultado_2 usuario 1 B 11 C2 S N
+LP resultado_1 produto 0 X 1.00 1 Cat M New
+LP resultado_2 produto 1 Y 2.00 1 Cat M New
+LC VAZIO
+LR VAZIO

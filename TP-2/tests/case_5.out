@@ -1,0 +1,74 @@
+A L
+T 0
+T 1
+T 2
+T 3
+T 4
+T 5
+T 6
+T 7
+T 8
+T 9
+U 0
+U 1
+U 2
+U 3
+U 4
+U 5
+U 6
+U 7
+U 8
+U 9
+U 10
+U 11
+S Ana Bruno
+S Ana Carla
+S Bruno Davi
+S Bruno Eva
+S Carla Eva
+S Carla Fabio
+S Davi Gabi
+S Davi Hugo
+S Eva Hugo
+S Eva Iris
+S Fabio Iris
+S Fabio Joao
+S Gabi Lara
+S Hugo Lara
+S Iris Mike
+S Joao Mike
+S Lara Mike
+S Davi Ana
+S Fabio Ana
+S Hugo Carla
+S Eva Ana
+S Lara Ana
+P Ana Davi Gabi Lara Hugo Joao
+P Mike Ana Bruno Carla Davi
+LC Ana Davi Eva Fabio Lara
+LS Ana Bruno Carla
+LA Ana
+Q Ana Davi 2
+G Mike IA 0
+F Algoritmos 5
+A M
+R Ana Carla
+S Davi Carla
+S Mike Ana
+S Mike Gabi
+P Ana Davi Gabi Lara Carla Hugo Eva Joao Iris
+P Mike Bruno Lara Davi Eva Carla Hugo
+Q Ana Carla 0
+LC Carla Davi Hugo
+LS Mike Ana Gabi
+LA Mike
+A L
+R Mike Ana
+S Gabi Mike
+S Joao Lara
+P Gabi Ana Bruno Davi Eva Joao Carla Hugo
+P Carla Hugo Ana Iris Lara Davi Joao Bruno Mike Gabi
+F IA 5
+LT Mike
+G Hugo Redes 1
+Q Joao Lara 1

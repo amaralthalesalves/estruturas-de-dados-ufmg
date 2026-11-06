@@ -1,0 +1,17 @@
+U 0
+U 1
+P 0
+P 1
+P 2
+C 0
+C 1
+C 2
+C 3
+LC resultado_1 compra 2 timestamp 25 usuario 1
+produto_1 2 1
+LC resultado_2 compra 3 timestamp 35 usuario 1
+produto_1 1 1 produto_2 2 1
+LC resultado_1 compra 0 timestamp 5 usuario 0
+produto_1 0 1
+LC resultado_2 compra 1 timestamp 15 usuario 0
+produto_1 1 1

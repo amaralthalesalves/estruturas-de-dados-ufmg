@@ -1,0 +1,10 @@
+U 0
+U 1
+U 2
+P 0
+P 1
+P 2
+LU resultado_1 usuario 0 Ana 20 BH MG BR
+LU VAZIO
+LP resultado_1 produto 0 Mouse 50.00 5 Info A Novo
+LP resultado_1 produto 1 Mouse 60.00 5 Info B Usado

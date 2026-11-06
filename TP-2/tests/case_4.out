@@ -1,0 +1,90 @@
+A L
+T 0
+T 1
+T 2
+T 3
+T 4
+T 5
+T 6
+T 7
+T 8
+T 9
+U 0
+U 1
+U 2
+U 3
+U 4
+U 5
+U 6
+U 7
+U 8
+U 9
+U 10
+U 11
+S Ana Bruno
+S Bruno Ana
+S Ana Carla
+S Carla Eva
+S Eva Ana
+S Davi Ana
+S Ana Davi
+S Fabio Ana
+S Ana Fabio
+S Bruno Carla
+S Carla Bruno
+S Bruno Gabi
+S Gabi Bruno
+S Hugo Bruno
+S Bruno Hugo
+S Iris Joao
+S Joao Iris
+S Lara Joao
+S Joao Lara
+S Mike Lara
+S Lara Mike
+S Carla Davi
+S Davi Eva
+S Eva Fabio
+S Fabio Gabi
+S Gabi Hugo
+S Hugo Iris
+S Iris Lara
+S Lara Carla
+S Mike Ana
+LT Lara Grafos Redes Algebra Fotografia
+LT Mike
+LC Ana Bruno Davi Eva Fabio Mike
+LS Ana Bruno Carla Davi Fabio
+LA Ana Bruno Davi Fabio
+Q Ana Eva 2
+Q Iris Joao 3
+G Mike IA 0
+F IA 4
+F Redes 4
+A M
+R Bruno Ana
+R Ana Davi
+R Joao Lara
+Q Ana Bruno 1
+LA Ana Fabio
+LC Ana Davi Eva Fabio Mike
+LS Ana Bruno Carla Fabio
+Q Lara Joao 1
+A L
+S Davi Carla
+S Carla Ana
+S Eva Carla
+S Mike Fabio
+S Fabio Mike
+Q Ana Carla 3
+LA Carla Ana Bruno Davi Eva
+LC Fabio Ana Eva Mike
+LS Fabio Ana Gabi Mike
+LA Fabio Ana Mike
+F Fotografia 3
+G Lara Algebra 1
+R Fabio Ana
+Q Ana Fabio 1
+LC Fabio Ana Eva Mike
+LS Fabio Gabi Mike
+LA Fabio Mike

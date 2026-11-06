@@ -1,0 +1,13 @@
+grupo,cenario,modo,total_avg_us,total_ms,mem_total_kb
+matriz_esparsa,d_baixa,L,0.38067,0.685206,154.0625
+matriz_esparsa,d_baixa,M,0.4307155555555556,0.775288,1304.0
+matriz_esparsa,d_baixa,E,1.1387766666666665,2.049798,92.0
+matriz_esparsa,d_media,L,2.0117088888888888,3.621076,553.5
+matriz_esparsa,d_media,M,0.8287155555555556,1.491688,1304.0
+matriz_esparsa,d_media,E,12.376953888888888,22.278517,204.0
+matriz_esparsa,QG,L,0.37794279999999997,0.944857,374.1875
+matriz_esparsa,QG,M,0.22814,0.57035,1304.0
+matriz_esparsa,QG,E,2.7464232,6.866058,204.0
+matriz_esparsa,LCLS,L,1.0715451999999999,2.678863,373.75
+matriz_esparsa,LCLS,M,1.1955348,2.988837,1304.0
+matriz_esparsa,LCLS,E,4.4790396,11.197599,204.0

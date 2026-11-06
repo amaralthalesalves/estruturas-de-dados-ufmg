@@ -1,0 +1,8 @@
+U A 10 C1 S N
+U B 11 C2 S N
+P X 1.00 1 Cat M New
+P Y 2.00 1 Cat M New
+LU nacionalidade N
+LP marca M
+LC id_usuario 0
+LR id_produto 0

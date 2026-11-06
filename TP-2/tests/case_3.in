@@ -1,0 +1,37 @@
+A L
+T ML A
+T Cinema P
+T SO A
+T Culinaria P
+T Bio A
+U Alice 30 0 2
+U Bob 31 1
+U Caio 32 0 1 2
+U Dora 33 3 4
+U Enzo 34 2 3
+U Gael 35
+LT 5
+F 1
+S 0 1
+S 1 2
+S 2 0
+S 3 4
+S 4 3
+S 5 0
+S 0 5
+LC 0
+LS 0
+LA 0
+Q 0 2
+Q 3 4
+G 5 0
+A M
+R 0 5
+Q 0 5
+LA 0
+S 2 1
+LA 2
+LS 2
+LC 1
+F 2
+LT 2

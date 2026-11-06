@@ -1,0 +1,9 @@
+U Joe 40 BH MG BR
+P A 5.00 10 Cat M Novo
+P B 6.00 10 Cat M Novo
+P C 7.00 10 Cat M Novo
+C 50 0 2 3 0 1 1 2
+R 60 2 2 0 5
+LC id_produto 2
+LR id_produto 0
+LP id 0

@@ -1,0 +1,9 @@
+P A 10.00 5 Cat M Novo
+P B 20.00 5 Cat M Novo
+P C 30.00 5 Cat M Novo
+R 5 0 1
+R 10 1 1
+R 20 0 1 2 1
+R 30 2 1
+LR timestamp 0 15 OR id_produto 2 AND NOT timestamp 25 35
+LR NOT timestamp 0 20 AND id_produto 2

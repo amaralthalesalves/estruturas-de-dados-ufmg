@@ -1,0 +1,6 @@
+U Ana 21 BH MG BR
+U Bruno 24 SP SP BR
+U Carla 30 BH MG AR
+U Diego 19 BH MG BR
+LU idade 20 25 OR cidade BH AND NOT nacionalidade AR
+LU NOT idade 20 30 AND cidade BH

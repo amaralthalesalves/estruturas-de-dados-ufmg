@@ -1,0 +1,74 @@
+A L
+T IA A
+T Dados A
+T Musica P
+T Xadrez P
+T Bio A
+T Redes A
+T Algoritmos A
+T Fotografia P
+T Corrida P
+T Nuvem A
+U Ana 20 0 1 6
+U Bruno 21 0 5 6
+U Carla 22 1 2 7
+U Davi 23 0 1 5 6
+U Eva 24 2 3
+U Fabio 25 4 5
+U Gabi 26 0 3 6
+U Hugo 27 1 5 7
+U Iris 28 2 4 8
+U Joao 29 0 8 9
+U Lara 30 1 6 9
+U Mike 31
+S 0 1
+S 0 2
+S 1 3
+S 1 4
+S 2 4
+S 2 5
+S 3 6
+S 3 7
+S 4 7
+S 4 8
+S 5 8
+S 5 9
+S 6 10
+S 7 10
+S 8 11
+S 9 11
+S 10 11
+S 3 0
+S 5 0
+S 7 2
+S 4 0
+S 10 0
+P 0 5 1.0 2.0
+P 11 4 1.0 1.0
+LC 0
+LS 0
+LA 0
+Q 0 3
+G 11 0
+F 6
+A M
+R 0 2
+S 3 2
+S 11 0
+S 11 6
+P 0 8 1.0 2.0
+P 11 6 2.0 0.0
+Q 0 2
+LC 2
+LS 11
+LA 11
+A L
+R 11 0
+S 6 11
+S 9 10
+P 6 7 1.5 1.0
+P 2 10 0.5 3.0
+F 0
+LT 11
+G 7 5
+Q 9 10

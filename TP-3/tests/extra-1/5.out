@@ -1,0 +1,14 @@
+P 0
+P 1
+P 2
+P 3
+R 0
+R 1
+R 2
+LP resultado_1 produto 0 Alpha 10.00 7 CatA M1 Novo
+LP resultado_2 produto 1 Beta 20.00 6 CatA M2 Usado
+LR resultado_1 reposicao 0 timestamp 5
+produto_1 0 1 produto_2 1 1
+LR resultado_2 reposicao 2 timestamp 15
+produto_1 0 1 produto_2 3 1
+LR VAZIO

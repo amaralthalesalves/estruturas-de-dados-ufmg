@@ -1,0 +1,563 @@
+U 0
+U 1
+U 2
+U 3
+U 4
+U 5
+U 6
+U 7
+U 8
+U 9
+U 10
+U 11
+U 12
+U 13
+U 14
+U 15
+U 16
+U 17
+U 18
+U 19
+U 20
+U 21
+U 22
+U 23
+U 24
+U 25
+U 26
+U 27
+U 28
+U 29
+U 30
+U 31
+U 32
+U 33
+U 34
+U 35
+U 36
+U 37
+U 38
+U 39
+U 40
+U 41
+U 42
+U 43
+U 44
+U 45
+U 46
+U 47
+U 48
+U 49
+U 50
+U 51
+U 52
+U 53
+U 54
+U 55
+U 56
+U 57
+U 58
+U 59
+U 60
+U 61
+U 62
+U 63
+U 64
+U 65
+U 66
+U 67
+U 68
+U 69
+U 70
+U 71
+U 72
+U 73
+U 74
+U 75
+U 76
+U 77
+U 78
+U 79
+P 0
+P 1
+P 2
+P 3
+P 4
+P 5
+P 6
+P 7
+P 8
+P 9
+P 10
+P 11
+P 12
+P 13
+P 14
+P 15
+P 16
+P 17
+P 18
+P 19
+P 20
+P 21
+P 22
+P 23
+P 24
+P 25
+P 26
+P 27
+P 28
+P 29
+P 30
+P 31
+P 32
+P 33
+P 34
+P 35
+P 36
+P 37
+P 38
+P 39
+P 40
+P 41
+P 42
+P 43
+P 44
+P 45
+P 46
+P 47
+P 48
+P 49
+R 0
+R 1
+R 2
+C 0
+C 1
+C 2
+C 3
+LU resultado_1 usuario 1 Usuario1 25 Rio RJ AR
+LU resultado_2 usuario 7 Usuario7 67 Rio RJ CL
+LU resultado_3 usuario 13 Usuario13 59 Rio RJ AR
+LU resultado_4 usuario 19 Usuario19 51 Rio RJ CL
+LU resultado_5 usuario 25 Usuario25 43 Rio RJ AR
+produto_1 8 1 produto_2 35 1
+LU resultado_6 usuario 31 Usuario31 35 Rio RJ CL
+LU resultado_7 usuario 37 Usuario37 27 Rio RJ AR
+LU resultado_8 usuario 43 Usuario43 19 Rio RJ CL
+LU resultado_9 usuario 49 Usuario49 61 Rio RJ AR
+LU resultado_10 usuario 55 Usuario55 53 Rio RJ CL
+LU resultado_11 usuario 61 Usuario61 45 Rio RJ AR
+LU resultado_12 usuario 67 Usuario67 37 Rio RJ CL
+LU resultado_13 usuario 73 Usuario73 29 Rio RJ AR
+LU resultado_14 usuario 79 Usuario79 21 Rio RJ CL
+LP resultado_1 produto 8 Produto8 114.36 59 Casa Flex Novo
+usuario_1 25 1
+LP resultado_2 produto 38 Produto38 504.46 50 Casa Flex Novo
+LC VAZIO
+R 3
+R 4
+R 5
+C 4
+C 5
+C 6
+C 7
+LU resultado_1 usuario 5 Usuario5 53 Vitoria ES AR
+LU resultado_2 usuario 11 Usuario11 45 Vitoria ES CL
+LU resultado_3 usuario 17 Usuario17 37 Vitoria ES AR
+LU resultado_4 usuario 23 Usuario23 29 Vitoria ES CL
+LU resultado_5 usuario 29 Usuario29 21 Vitoria ES AR
+LU resultado_6 usuario 35 Usuario35 63 Vitoria ES CL
+LU resultado_7 usuario 41 Usuario41 55 Vitoria ES AR
+LU resultado_8 usuario 47 Usuario47 47 Vitoria ES CL
+LU resultado_9 usuario 53 Usuario53 39 Vitoria ES AR
+LU resultado_10 usuario 59 Usuario59 31 Vitoria ES CL
+LU resultado_11 usuario 65 Usuario65 23 Vitoria ES AR
+produto_1 41 1 produto_2 46 1
+LU resultado_12 usuario 71 Usuario71 65 Vitoria ES CL
+LU resultado_13 usuario 77 Usuario77 57 Vitoria ES AR
+LP resultado_1 produto 18 Produto18 244.06 29 Casa Acer Novo
+usuario_1 75 1
+LP resultado_2 produto 48 Produto48 634.16 19 Casa Acer Novo
+usuario_1 70 1
+LC VAZIO
+R 6
+R 7
+R 8
+C 8
+C 9
+C 10
+C 11
+LU resultado_1 usuario 3 Usuario3 39 Recife PE CL
+LU resultado_2 usuario 9 Usuario9 31 Recife PE AR
+LU resultado_3 usuario 15 Usuario15 23 Recife PE CL
+produto_1 21 1 produto_2 36 1
+LU resultado_4 usuario 21 Usuario21 65 Recife PE AR
+LU resultado_5 usuario 27 Usuario27 57 Recife PE CL
+LU resultado_6 usuario 33 Usuario33 49 Recife PE AR
+LU resultado_7 usuario 39 Usuario39 41 Recife PE CL
+LU resultado_8 usuario 45 Usuario45 33 Recife PE AR
+produto_1 25 1 produto_2 28 1
+LU resultado_9 usuario 51 Usuario51 25 Recife PE CL
+LU resultado_10 usuario 57 Usuario57 67 Recife PE AR
+LU resultado_11 usuario 63 Usuario63 59 Recife PE CL
+LU resultado_12 usuario 69 Usuario69 51 Recife PE AR
+LU resultado_13 usuario 75 Usuario75 43 Recife PE CL
+produto_1 5 1 produto_2 18 1
+LP resultado_1 produto 28 Produto28 374.76 78 Casa Sony Novo
+usuario_1 20 1 usuario_2 45 1
+LC VAZIO
+R 9
+R 10
+R 11
+C 12
+C 13
+C 14
+C 15
+LU resultado_1 usuario 1 Usuario1 25 Rio RJ AR
+LU resultado_2 usuario 7 Usuario7 67 Rio RJ CL
+LU resultado_3 usuario 13 Usuario13 59 Rio RJ AR
+LU resultado_4 usuario 19 Usuario19 51 Rio RJ CL
+LU resultado_5 usuario 25 Usuario25 43 Rio RJ AR
+produto_1 8 1 produto_2 35 1
+LU resultado_6 usuario 31 Usuario31 35 Rio RJ CL
+LU resultado_7 usuario 37 Usuario37 27 Rio RJ AR
+LU resultado_8 usuario 43 Usuario43 19 Rio RJ CL
+LU resultado_9 usuario 49 Usuario49 61 Rio RJ AR
+LU resultado_10 usuario 55 Usuario55 53 Rio RJ CL
+LU resultado_11 usuario 61 Usuario61 45 Rio RJ AR
+LU resultado_12 usuario 67 Usuario67 37 Rio RJ CL
+LU resultado_13 usuario 73 Usuario73 29 Rio RJ AR
+LU resultado_14 usuario 79 Usuario79 21 Rio RJ CL
+LP resultado_1 produto 8 Produto8 114.36 59 Casa Flex Novo
+usuario_1 25 1
+LP resultado_2 produto 38 Produto38 504.46 48 Casa Flex Novo
+usuario_1 10 1 usuario_2 15 1
+LC VAZIO
+R 12
+R 13
+R 14
+C 16
+C 17
+C 18
+C 19
+LU resultado_1 usuario 5 Usuario5 53 Vitoria ES AR
+produto_1 16 1 produto_2 31 1
+LU resultado_2 usuario 11 Usuario11 45 Vitoria ES CL
+LU resultado_3 usuario 17 Usuario17 37 Vitoria ES AR
+LU resultado_4 usuario 23 Usuario23 29 Vitoria ES CL
+LU resultado_5 usuario 29 Usuario29 21 Vitoria ES AR
+LU resultado_6 usuario 35 Usuario35 63 Vitoria ES CL
+produto_1 6 1 produto_2 11 1
+LU resultado_7 usuario 41 Usuario41 55 Vitoria ES AR
+LU resultado_8 usuario 47 Usuario47 47 Vitoria ES CL
+LU resultado_9 usuario 53 Usuario53 39 Vitoria ES AR
+LU resultado_10 usuario 59 Usuario59 31 Vitoria ES CL
+LU resultado_11 usuario 65 Usuario65 23 Vitoria ES AR
+produto_1 15 1 produto_2 41 1 produto_3 46 1 produto_4 48 1
+LU resultado_12 usuario 71 Usuario71 65 Vitoria ES CL
+LU resultado_13 usuario 77 Usuario77 57 Vitoria ES AR
+LP resultado_1 produto 18 Produto18 244.06 28 Casa Acer Novo
+usuario_1 40 1 usuario_2 75 1
+LP resultado_2 produto 48 Produto48 634.16 18 Casa Acer Novo
+usuario_1 65 1 usuario_2 70 1
+LC VAZIO
+R 15
+R 16
+R 17
+C 20
+C 21
+C 22
+C 23
+LU resultado_1 usuario 3 Usuario3 39 Recife PE CL
+LU resultado_2 usuario 9 Usuario9 31 Recife PE AR
+LU resultado_3 usuario 15 Usuario15 23 Recife PE CL
+produto_1 21 1 produto_2 36 1 produto_3 38 1 produto_4 45 1
+LU resultado_4 usuario 21 Usuario21 65 Recife PE AR
+LU resultado_5 usuario 27 Usuario27 57 Recife PE CL
+LU resultado_6 usuario 33 Usuario33 49 Recife PE AR
+LU resultado_7 usuario 39 Usuario39 41 Recife PE CL
+LU resultado_8 usuario 45 Usuario45 33 Recife PE AR
+produto_1 25 1 produto_2 28 1
+LU resultado_9 usuario 51 Usuario51 25 Recife PE CL
+LU resultado_10 usuario 57 Usuario57 67 Recife PE AR
+LU resultado_11 usuario 63 Usuario63 59 Recife PE CL
+LU resultado_12 usuario 69 Usuario69 51 Recife PE AR
+LU resultado_13 usuario 75 Usuario75 43 Recife PE CL
+produto_1 5 1 produto_2 18 1
+LP resultado_1 produto 28 Produto28 374.76 77 Casa Sony Novo
+usuario_1 20 1 usuario_2 30 1 usuario_3 45 1
+LC VAZIO
+R 18
+R 19
+R 20
+C 24
+C 25
+C 26
+C 27
+LU resultado_1 usuario 1 Usuario1 25 Rio RJ AR
+LU resultado_2 usuario 7 Usuario7 67 Rio RJ CL
+LU resultado_3 usuario 13 Usuario13 59 Rio RJ AR
+LU resultado_4 usuario 19 Usuario19 51 Rio RJ CL
+LU resultado_5 usuario 25 Usuario25 43 Rio RJ AR
+produto_1 8 1 produto_2 21 1 produto_3 35 1 produto_4 36 1
+LU resultado_6 usuario 31 Usuario31 35 Rio RJ CL
+LU resultado_7 usuario 37 Usuario37 27 Rio RJ AR
+LU resultado_8 usuario 43 Usuario43 19 Rio RJ CL
+LU resultado_9 usuario 49 Usuario49 61 Rio RJ AR
+LU resultado_10 usuario 55 Usuario55 53 Rio RJ CL
+produto_1 1 1 produto_2 26 1
+LU resultado_11 usuario 61 Usuario61 45 Rio RJ AR
+LU resultado_12 usuario 67 Usuario67 37 Rio RJ CL
+LU resultado_13 usuario 73 Usuario73 29 Rio RJ AR
+LU resultado_14 usuario 79 Usuario79 21 Rio RJ CL
+LP resultado_1 produto 8 Produto8 114.36 57 Casa Flex Novo
+usuario_1 25 1 usuario_2 35 1 usuario_3 60 1
+LP resultado_2 produto 38 Produto38 504.46 48 Casa Flex Novo
+usuario_1 10 1 usuario_2 15 1
+LC VAZIO
+R 21
+R 22
+R 23
+C 28
+C 29
+C 30
+C 31
+LU resultado_1 usuario 5 Usuario5 53 Vitoria ES AR
+produto_1 5 1 produto_2 16 1 produto_3 18 1 produto_4 31 1
+LU resultado_2 usuario 11 Usuario11 45 Vitoria ES CL
+LU resultado_3 usuario 17 Usuario17 37 Vitoria ES AR
+LU resultado_4 usuario 23 Usuario23 29 Vitoria ES CL
+LU resultado_5 usuario 29 Usuario29 21 Vitoria ES AR
+LU resultado_6 usuario 35 Usuario35 63 Vitoria ES CL
+produto_1 6 1 produto_2 8 1 produto_3 11 1 produto_4 35 1
+LU resultado_7 usuario 41 Usuario41 55 Vitoria ES AR
+LU resultado_8 usuario 47 Usuario47 47 Vitoria ES CL
+LU resultado_9 usuario 53 Usuario53 39 Vitoria ES AR
+LU resultado_10 usuario 59 Usuario59 31 Vitoria ES CL
+LU resultado_11 usuario 65 Usuario65 23 Vitoria ES AR
+produto_1 15 1 produto_2 41 1 produto_3 46 1 produto_4 48 1
+LU resultado_12 usuario 71 Usuario71 65 Vitoria ES CL
+LU resultado_13 usuario 77 Usuario77 57 Vitoria ES AR
+LP resultado_1 produto 18 Produto18 244.06 26 Casa Acer Novo
+usuario_1 5 1 usuario_2 40 1 usuario_3 50 1 usuario_4 75 1
+LP resultado_2 produto 48 Produto48 634.16 17 Casa Acer Novo
+usuario_1 0 1 usuario_2 65 1 usuario_3 70 1
+LC VAZIO
+R 24
+R 25
+R 26
+C 32
+C 33
+C 34
+C 35
+LU resultado_1 usuario 3 Usuario3 39 Recife PE CL
+LU resultado_2 usuario 9 Usuario9 31 Recife PE AR
+LU resultado_3 usuario 15 Usuario15 23 Recife PE CL
+produto_1 16 1 produto_2 21 1 produto_3 31 1 produto_4 36 1 produto_5 38 1 produto_6 45 1
+LU resultado_4 usuario 21 Usuario21 65 Recife PE AR
+LU resultado_5 usuario 27 Usuario27 57 Recife PE CL
+LU resultado_6 usuario 33 Usuario33 49 Recife PE AR
+LU resultado_7 usuario 39 Usuario39 41 Recife PE CL
+LU resultado_8 usuario 45 Usuario45 33 Recife PE AR
+produto_1 6 1 produto_2 11 1 produto_3 25 1 produto_4 28 1
+LU resultado_9 usuario 51 Usuario51 25 Recife PE CL
+LU resultado_10 usuario 57 Usuario57 67 Recife PE AR
+LU resultado_11 usuario 63 Usuario63 59 Recife PE CL
+LU resultado_12 usuario 69 Usuario69 51 Recife PE AR
+LU resultado_13 usuario 75 Usuario75 43 Recife PE CL
+produto_1 5 1 produto_2 18 1 produto_3 41 1 produto_4 46 1
+LP resultado_1 produto 28 Produto28 374.76 76 Casa Sony Novo
+usuario_1 20 1 usuario_2 30 1 usuario_3 45 1 usuario_4 55 1
+LC VAZIO
+R 27
+R 28
+R 29
+C 36
+C 37
+C 38
+C 39
+LU resultado_1 usuario 1 Usuario1 25 Rio RJ AR
+LU resultado_2 usuario 7 Usuario7 67 Rio RJ CL
+LU resultado_3 usuario 13 Usuario13 59 Rio RJ AR
+LU resultado_4 usuario 19 Usuario19 51 Rio RJ CL
+LU resultado_5 usuario 25 Usuario25 43 Rio RJ AR
+produto_1 8 1 produto_2 21 1 produto_3 35 1 produto_4 36 1 produto_5 38 1 produto_6 45 1
+LU resultado_6 usuario 31 Usuario31 35 Rio RJ CL
+LU resultado_7 usuario 37 Usuario37 27 Rio RJ AR
+LU resultado_8 usuario 43 Usuario43 19 Rio RJ CL
+LU resultado_9 usuario 49 Usuario49 61 Rio RJ AR
+LU resultado_10 usuario 55 Usuario55 53 Rio RJ CL
+produto_1 1 1 produto_2 25 1 produto_3 26 1 produto_4 28 1
+LU resultado_11 usuario 61 Usuario61 45 Rio RJ AR
+LU resultado_12 usuario 67 Usuario67 37 Rio RJ CL
+LU resultado_13 usuario 73 Usuario73 29 Rio RJ AR
+LU resultado_14 usuario 79 Usuario79 21 Rio RJ CL
+LP resultado_1 produto 8 Produto8 114.36 56 Casa Flex Novo
+usuario_1 25 1 usuario_2 35 1 usuario_3 60 1 usuario_4 70 1
+LP resultado_2 produto 38 Produto38 504.46 46 Casa Flex Novo
+usuario_1 10 1 usuario_2 15 1 usuario_3 20 1 usuario_4 25 1
+LC VAZIO
+R 30
+R 31
+R 32
+C 40
+C 41
+C 42
+C 43
+LU resultado_1 usuario 5 Usuario5 53 Vitoria ES AR
+produto_1 5 1 produto_2 16 1 produto_3 18 1 produto_4 31 1
+LU resultado_2 usuario 11 Usuario11 45 Vitoria ES CL
+LU resultado_3 usuario 17 Usuario17 37 Vitoria ES AR
+LU resultado_4 usuario 23 Usuario23 29 Vitoria ES CL
+LU resultado_5 usuario 29 Usuario29 21 Vitoria ES AR
+LU resultado_6 usuario 35 Usuario35 63 Vitoria ES CL
+produto_1 6 1 produto_2 8 1 produto_3 11 1 produto_4 21 1 produto_5 35 1 produto_6 36 1
+LU resultado_7 usuario 41 Usuario41 55 Vitoria ES AR
+LU resultado_8 usuario 47 Usuario47 47 Vitoria ES CL
+LU resultado_9 usuario 53 Usuario53 39 Vitoria ES AR
+LU resultado_10 usuario 59 Usuario59 31 Vitoria ES CL
+LU resultado_11 usuario 65 Usuario65 23 Vitoria ES AR
+produto_1 1 1 produto_2 15 1 produto_3 26 1 produto_4 41 1 produto_5 46 1 produto_6 48 1
+LU resultado_12 usuario 71 Usuario71 65 Vitoria ES CL
+LU resultado_13 usuario 77 Usuario77 57 Vitoria ES AR
+LP resultado_1 produto 18 Produto18 244.06 26 Casa Acer Novo
+usuario_1 5 1 usuario_2 40 1 usuario_3 50 1 usuario_4 75 1
+LP resultado_2 produto 48 Produto48 634.16 16 Casa Acer Novo
+usuario_1 0 1 usuario_2 65 1 usuario_3 70 1 usuario_4 75 1
+LC VAZIO
+R 33
+R 34
+R 35
+C 44
+C 45
+C 46
+C 47
+LU resultado_1 usuario 3 Usuario3 39 Recife PE CL
+LU resultado_2 usuario 9 Usuario9 31 Recife PE AR
+LU resultado_3 usuario 15 Usuario15 23 Recife PE CL
+produto_1 5 1 produto_2 16 1 produto_3 18 1 produto_4 21 1 produto_5 31 1 produto_6 36 1 produto_7 38 1 produto_8 45 1
+LU resultado_4 usuario 21 Usuario21 65 Recife PE AR
+LU resultado_5 usuario 27 Usuario27 57 Recife PE CL
+LU resultado_6 usuario 33 Usuario33 49 Recife PE AR
+LU resultado_7 usuario 39 Usuario39 41 Recife PE CL
+LU resultado_8 usuario 45 Usuario45 33 Recife PE AR
+produto_1 6 1 produto_2 8 1 produto_3 11 1 produto_4 25 1 produto_5 28 1 produto_6 35 1
+LU resultado_9 usuario 51 Usuario51 25 Recife PE CL
+LU resultado_10 usuario 57 Usuario57 67 Recife PE AR
+LU resultado_11 usuario 63 Usuario63 59 Recife PE CL
+LU resultado_12 usuario 69 Usuario69 51 Recife PE AR
+LU resultado_13 usuario 75 Usuario75 43 Recife PE CL
+produto_1 5 1 produto_2 15 1 produto_3 18 1 produto_4 41 1 produto_5 46 1 produto_6 48 1
+LP resultado_1 produto 28 Produto28 374.76 75 Casa Sony Novo
+usuario_1 20 1 usuario_2 30 1 usuario_3 40 1 usuario_4 45 1 usuario_5 55 1
+LC VAZIO
+R 36
+R 37
+R 38
+C 48
+C 49
+C 50
+C 51
+LU resultado_1 usuario 1 Usuario1 25 Rio RJ AR
+LU resultado_2 usuario 7 Usuario7 67 Rio RJ CL
+LU resultado_3 usuario 13 Usuario13 59 Rio RJ AR
+LU resultado_4 usuario 19 Usuario19 51 Rio RJ CL
+LU resultado_5 usuario 25 Usuario25 43 Rio RJ AR
+produto_1 8 1 produto_2 21 1 produto_3 35 1 produto_4 36 1 produto_5 38 1 produto_6 45 1
+LU resultado_6 usuario 31 Usuario31 35 Rio RJ CL
+LU resultado_7 usuario 37 Usuario37 27 Rio RJ AR
+LU resultado_8 usuario 43 Usuario43 19 Rio RJ CL
+LU resultado_9 usuario 49 Usuario49 61 Rio RJ AR
+LU resultado_10 usuario 55 Usuario55 53 Rio RJ CL
+produto_1 1 1 produto_2 6 1 produto_3 11 1 produto_4 25 1 produto_5 26 1 produto_6 28 1
+LU resultado_11 usuario 61 Usuario61 45 Rio RJ AR
+LU resultado_12 usuario 67 Usuario67 37 Rio RJ CL
+LU resultado_13 usuario 73 Usuario73 29 Rio RJ AR
+LU resultado_14 usuario 79 Usuario79 21 Rio RJ CL
+LP resultado_1 produto 8 Produto8 114.36 55 Casa Flex Novo
+usuario_1 25 1 usuario_2 35 1 usuario_3 45 1 usuario_4 60 1 usuario_5 70 1
+LP resultado_2 produto 38 Produto38 504.46 46 Casa Flex Novo
+usuario_1 10 1 usuario_2 15 1 usuario_3 20 1 usuario_4 25 1
+LC VAZIO
+R 39
+R 40
+R 41
+C 52
+C 53
+C 54
+C 55
+LU resultado_1 usuario 5 Usuario5 53 Vitoria ES AR
+produto_1 5 1 produto_2 16 1 produto_3 18 1 produto_4 31 1 produto_5 41 1 produto_6 46 1
+LU resultado_2 usuario 11 Usuario11 45 Vitoria ES CL
+LU resultado_3 usuario 17 Usuario17 37 Vitoria ES AR
+LU resultado_4 usuario 23 Usuario23 29 Vitoria ES CL
+LU resultado_5 usuario 29 Usuario29 21 Vitoria ES AR
+LU resultado_6 usuario 35 Usuario35 63 Vitoria ES CL
+produto_1 6 1 produto_2 8 1 produto_3 11 1 produto_4 21 1 produto_5 35 1 produto_6 36 1 produto_7 38 1 produto_8 45 1
+LU resultado_7 usuario 41 Usuario41 55 Vitoria ES AR
+LU resultado_8 usuario 47 Usuario47 47 Vitoria ES CL
+LU resultado_9 usuario 53 Usuario53 39 Vitoria ES AR
+LU resultado_10 usuario 59 Usuario59 31 Vitoria ES CL
+LU resultado_11 usuario 65 Usuario65 23 Vitoria ES AR
+produto_1 1 1 produto_2 15 1 produto_3 25 1 produto_4 26 1 produto_5 28 1 produto_6 41 1 produto_7 46 1 produto_8 48 1
+LU resultado_12 usuario 71 Usuario71 65 Vitoria ES CL
+LU resultado_13 usuario 77 Usuario77 57 Vitoria ES AR
+LP resultado_1 produto 18 Produto18 244.06 24 Casa Acer Novo
+usuario_1 5 1 usuario_2 15 1 usuario_3 40 1 usuario_4 50 1 usuario_5 60 1 usuario_6 75 1
+LP resultado_2 produto 48 Produto48 634.16 15 Casa Acer Novo
+usuario_1 0 1 usuario_2 10 1 usuario_3 65 1 usuario_4 70 1 usuario_5 75 1
+LC VAZIO
+R 42
+R 43
+R 44
+C 56
+C 57
+C 58
+C 59
+LU resultado_1 usuario 3 Usuario3 39 Recife PE CL
+LU resultado_2 usuario 9 Usuario9 31 Recife PE AR
+LU resultado_3 usuario 15 Usuario15 23 Recife PE CL
+produto_1 5 1 produto_2 16 1 produto_3 18 1 produto_4 21 1 produto_5 31 1 produto_6 36 1 produto_7 38 1 produto_8 45 1
+LU resultado_4 usuario 21 Usuario21 65 Recife PE AR
+LU resultado_5 usuario 27 Usuario27 57 Recife PE CL
+LU resultado_6 usuario 33 Usuario33 49 Recife PE AR
+LU resultado_7 usuario 39 Usuario39 41 Recife PE CL
+LU resultado_8 usuario 45 Usuario45 33 Recife PE AR
+produto_1 6 1 produto_2 8 1 produto_3 11 1 produto_4 25 1 produto_5 28 1 produto_6 35 1
+LU resultado_9 usuario 51 Usuario51 25 Recife PE CL
+LU resultado_10 usuario 57 Usuario57 67 Recife PE AR
+LU resultado_11 usuario 63 Usuario63 59 Recife PE CL
+LU resultado_12 usuario 69 Usuario69 51 Recife PE AR
+LU resultado_13 usuario 75 Usuario75 43 Recife PE CL
+produto_1 1 1 produto_2 5 1 produto_3 15 1 produto_4 18 1 produto_5 26 1 produto_6 41 1 produto_7 46 1 produto_8 48 1
+LP resultado_1 produto 28 Produto28 374.76 74 Casa Sony Novo
+usuario_1 20 1 usuario_2 30 1 usuario_3 40 1 usuario_4 45 1 usuario_5 55 1 usuario_6 65 1
+LC VAZIO
+R 45
+R 46
+R 47
+C 60
+C 61
+C 62
+C 63
+LU resultado_1 usuario 1 Usuario1 25 Rio RJ AR
+LU resultado_2 usuario 7 Usuario7 67 Rio RJ CL
+LU resultado_3 usuario 13 Usuario13 59 Rio RJ AR
+LU resultado_4 usuario 19 Usuario19 51 Rio RJ CL
+LU resultado_5 usuario 25 Usuario25 43 Rio RJ AR
+produto_1 8 1 produto_2 16 1 produto_3 21 1 produto_4 31 1 produto_5 35 1 produto_6 36 1 produto_7 38 1 produto_8 45 1
+LU resultado_6 usuario 31 Usuario31 35 Rio RJ CL
+LU resultado_7 usuario 37 Usuario37 27 Rio RJ AR
+LU resultado_8 usuario 43 Usuario43 19 Rio RJ CL
+LU resultado_9 usuario 49 Usuario49 61 Rio RJ AR
+LU resultado_10 usuario 55 Usuario55 53 Rio RJ CL
+produto_1 1 1 produto_2 6 1 produto_3 8 1 produto_4 11 1 produto_5 25 1 produto_6 26 1 produto_7 28 1 produto_8 35 1
+LU resultado_11 usuario 61 Usuario61 45 Rio RJ AR
+LU resultado_12 usuario 67 Usuario67 37 Rio RJ CL
+LU resultado_13 usuario 73 Usuario73 29 Rio RJ AR
+LU resultado_14 usuario 79 Usuario79 21 Rio RJ CL
+LP resultado_1 produto 8 Produto8 114.36 53 Casa Flex Novo
+usuario_1 0 1 usuario_2 25 1 usuario_3 35 1 usuario_4 45 1 usuario_5 55 1 usuario_6 60 1 usuario_7 70 1
+LP resultado_2 produto 38 Produto38 504.46 44 Casa Flex Novo
+usuario_1 10 1 usuario_2 15 1 usuario_3 20 1 usuario_4 25 1 usuario_5 30 1 usuario_6 35 1
+LC VAZIO

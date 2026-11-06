@@ -1,0 +1,10 @@
+P Alpha 10.00 5 CatA M1 Novo
+P Beta 20.00 5 CatA M2 Usado
+P Gamma 30.00 5 CatB M1 Novo
+P Delta 40.00 5 CatB M2 Usado
+R 5 0 1 1 1
+R 10 2 1
+R 15 3 1 0 1
+LP categoria CatA AND marca M1 OR condicao Usado AND NOT nome Delta
+LR id_produto 0 OR timestamp 10 AND NOT id_produto 2
+LR NOT id_produto 0 AND NOT id_produto 2 AND NOT id_produto 3

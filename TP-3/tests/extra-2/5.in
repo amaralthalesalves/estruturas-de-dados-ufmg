@@ -1,0 +1,13 @@
+U Ana 18 BH MG BR
+U Bob 22 RJ RJ BR
+U Cris 35 BH MG AR
+P Phone 1000.00 2 Elec A Novo
+P Case 30.00 10 Elec B Novo
+P Toy 70.00 4 Kids C Novo
+C 1 0 0 1 1 2
+C 2 1 2 4
+R 5 2 5
+LU idade 18 25 AND NOT cidade RJ OR idade 30 40 AND cidade BH
+LP qtd 0 1 AND preco 50.00 2000.00 OR NOT qtd 0 10
+LC timestamp 1 1 AND id_produto 1 OR NOT timestamp 1 5
+LR NOT timestamp 1 10 AND id_produto 2

@@ -1,0 +1,14 @@
+U 0
+P 0
+P 1
+P 2
+P 3
+C 0
+LP resultado_1 produto 0 Mouse 80.00 3 Info Logitech Novo
+usuario_1 0 2
+LP resultado_2 produto 2 Livro 50.00 4 Livros Pearson Usado
+LP resultado_3 produto 3 Cadeira 500.00 8 Moveis Flex Novo
+LP resultado_1 produto 0 Mouse 80.00 3 Info Logitech Novo
+usuario_1 0 2
+LP resultado_2 produto 1 Notebook 3500.00 1 Info Dell Novo
+usuario_1 0 1

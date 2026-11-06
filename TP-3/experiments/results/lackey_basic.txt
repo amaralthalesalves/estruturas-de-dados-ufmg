@@ -1,0 +1,25 @@
+==572789== Lackey, an example Valgrind tool
+==572789== Copyright (C) 2002-2024, and GNU GPL'd, by Nicholas Nethercote et al.
+==572789== Using Valgrind-3.25.1 and LibVEX; rerun with -h for copyright info
+==572789== Command: TP-3/project/bin/tp3.out
+==572789== Parent PID: 572770
+==572789== 
+==572789== 
+==572789== Counted 1 call to main()
+==572789== 
+==572789== Jccs:
+==572789==   total:         1,255,242
+==572789==   taken:         537,343 (43%)
+==572789== 
+==572789== Executed:
+==572789==   SBs entered:   2,091,145
+==572789==   SBs completed: 1,536,664
+==572789==   guest instrs:  14,154,062
+==572789==   IRStmts:       78,378,306
+==572789== 
+==572789== Ratios:
+==572789==   guest instrs : SB entered  = 67 : 10
+==572789==        IRStmts : SB entered  = 374 : 10
+==572789==        IRStmts : guest instr = 55 : 10
+==572789== 
+==572789== Exit code:       0

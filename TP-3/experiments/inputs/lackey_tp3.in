@@ -1,0 +1,290 @@
+U Usuario0 18 BH MG BR
+U Usuario1 25 Rio RJ AR
+U Usuario2 32 SaoPaulo SP UY
+U Usuario3 39 Recife PE CL
+U Usuario4 46 Curitiba PR BR
+U Usuario5 53 Vitoria ES AR
+U Usuario6 60 BH MG UY
+U Usuario7 67 Rio RJ CL
+U Usuario8 24 SaoPaulo SP BR
+U Usuario9 31 Recife PE AR
+U Usuario10 38 Curitiba PR UY
+U Usuario11 45 Vitoria ES CL
+U Usuario12 52 BH MG BR
+U Usuario13 59 Rio RJ AR
+U Usuario14 66 SaoPaulo SP UY
+U Usuario15 23 Recife PE CL
+U Usuario16 30 Curitiba PR BR
+U Usuario17 37 Vitoria ES AR
+U Usuario18 44 BH MG UY
+U Usuario19 51 Rio RJ CL
+U Usuario20 58 SaoPaulo SP BR
+U Usuario21 65 Recife PE AR
+U Usuario22 22 Curitiba PR UY
+U Usuario23 29 Vitoria ES CL
+U Usuario24 36 BH MG BR
+U Usuario25 43 Rio RJ AR
+U Usuario26 50 SaoPaulo SP UY
+U Usuario27 57 Recife PE CL
+U Usuario28 64 Curitiba PR BR
+U Usuario29 21 Vitoria ES AR
+U Usuario30 28 BH MG UY
+U Usuario31 35 Rio RJ CL
+U Usuario32 42 SaoPaulo SP BR
+U Usuario33 49 Recife PE AR
+U Usuario34 56 Curitiba PR UY
+U Usuario35 63 Vitoria ES CL
+U Usuario36 20 BH MG BR
+U Usuario37 27 Rio RJ AR
+U Usuario38 34 SaoPaulo SP UY
+U Usuario39 41 Recife PE CL
+U Usuario40 48 Curitiba PR BR
+U Usuario41 55 Vitoria ES AR
+U Usuario42 62 BH MG UY
+U Usuario43 19 Rio RJ CL
+U Usuario44 26 SaoPaulo SP BR
+U Usuario45 33 Recife PE AR
+U Usuario46 40 Curitiba PR UY
+U Usuario47 47 Vitoria ES CL
+U Usuario48 54 BH MG BR
+U Usuario49 61 Rio RJ AR
+U Usuario50 18 SaoPaulo SP UY
+U Usuario51 25 Recife PE CL
+U Usuario52 32 Curitiba PR BR
+U Usuario53 39 Vitoria ES AR
+U Usuario54 46 BH MG UY
+U Usuario55 53 Rio RJ CL
+U Usuario56 60 SaoPaulo SP BR
+U Usuario57 67 Recife PE AR
+U Usuario58 24 Curitiba PR UY
+U Usuario59 31 Vitoria ES CL
+U Usuario60 38 BH MG BR
+U Usuario61 45 Rio RJ AR
+U Usuario62 52 SaoPaulo SP UY
+U Usuario63 59 Recife PE CL
+U Usuario64 66 Curitiba PR BR
+U Usuario65 23 Vitoria ES AR
+U Usuario66 30 BH MG UY
+U Usuario67 37 Rio RJ CL
+U Usuario68 44 SaoPaulo SP BR
+U Usuario69 51 Recife PE AR
+U Usuario70 58 Curitiba PR UY
+U Usuario71 65 Vitoria ES CL
+U Usuario72 22 BH MG BR
+U Usuario73 29 Rio RJ AR
+U Usuario74 36 SaoPaulo SP UY
+U Usuario75 43 Recife PE CL
+U Usuario76 50 Curitiba PR BR
+U Usuario77 57 Vitoria ES AR
+U Usuario78 64 BH MG UY
+U Usuario79 21 Rio RJ CL
+P Produto0 10.00 20 Info Acer Novo
+P Produto1 23.17 25 Livros Dell Usado
+P Produto2 36.34 30 Moveis Flex Novo
+P Produto3 49.51 35 Casa Pearson Usado
+P Produto4 62.68 40 Jogos Sony Novo
+P Produto5 75.85 45 Info Logi Usado
+P Produto6 88.02 50 Livros Acer Novo
+P Produto7 101.19 55 Moveis Dell Usado
+P Produto8 114.36 60 Casa Flex Novo
+P Produto9 127.53 65 Jogos Pearson Usado
+P Produto10 140.70 70 Info Sony Novo
+P Produto11 153.87 75 Livros Logi Usado
+P Produto12 166.04 80 Moveis Acer Novo
+P Produto13 179.21 85 Casa Dell Usado
+P Produto14 192.38 90 Jogos Flex Novo
+P Produto15 205.55 95 Info Pearson Usado
+P Produto16 218.72 20 Livros Sony Novo
+P Produto17 231.89 25 Moveis Logi Usado
+P Produto18 244.06 30 Casa Acer Novo
+P Produto19 257.23 35 Jogos Dell Usado
+P Produto20 270.40 40 Info Flex Novo
+P Produto21 283.57 45 Livros Pearson Usado
+P Produto22 296.74 50 Moveis Sony Novo
+P Produto23 309.91 55 Casa Logi Usado
+P Produto24 322.08 60 Jogos Acer Novo
+P Produto25 335.25 65 Info Dell Usado
+P Produto26 348.42 70 Livros Flex Novo
+P Produto27 361.59 75 Moveis Pearson Usado
+P Produto28 374.76 80 Casa Sony Novo
+P Produto29 387.93 85 Jogos Logi Usado
+P Produto30 400.10 90 Info Acer Novo
+P Produto31 413.27 95 Livros Dell Usado
+P Produto32 426.44 20 Moveis Flex Novo
+P Produto33 439.61 25 Casa Pearson Usado
+P Produto34 452.78 30 Jogos Sony Novo
+P Produto35 465.95 35 Info Logi Usado
+P Produto36 478.12 40 Livros Acer Novo
+P Produto37 491.29 45 Moveis Dell Usado
+P Produto38 504.46 50 Casa Flex Novo
+P Produto39 517.63 55 Jogos Pearson Usado
+P Produto40 530.80 60 Info Sony Novo
+P Produto41 543.97 65 Livros Logi Usado
+P Produto42 556.14 70 Moveis Acer Novo
+P Produto43 569.31 75 Casa Dell Usado
+P Produto44 582.48 80 Jogos Flex Novo
+P Produto45 595.65 85 Info Pearson Usado
+P Produto46 608.82 90 Livros Sony Novo
+P Produto47 621.99 95 Moveis Logi Usado
+P Produto48 634.16 20 Casa Acer Novo
+P Produto49 647.33 25 Jogos Dell Usado
+R 1000 0 3 3 2
+R 1001 7 3 14 2
+R 1002 14 3 25 2
+C 1003 15 21 1 36 1
+C 1004 20 28 1 47 1
+C 1005 25 35 1 8 1
+C 1006 30 42 1 19 1
+LU cidade Rio estado RJ
+LP categoria Casa marca Flex
+LC id_produto 13
+R 1010 20 3 13 2
+R 1011 27 3 24 2
+R 1012 34 3 35 2
+C 1013 65 41 1 46 1
+C 1014 70 48 1 7 1
+C 1015 75 5 1 18 1
+C 1016 0 12 1 29 1
+LU cidade Vitoria estado ES
+LP categoria Casa marca Acer
+LC id_produto 33
+R 1020 40 3 23 2
+R 1021 47 3 34 2
+R 1022 4 3 45 2
+C 1023 35 11 1 6 1
+C 1024 40 18 1 17 1
+C 1025 45 25 1 28 1
+C 1026 50 32 1 39 1
+LU cidade Recife estado PE
+LP categoria Casa marca Sony
+LC id_produto 3
+R 1030 10 3 33 2
+R 1031 17 3 44 2
+R 1032 24 3 5 2
+C 1033 5 31 1 16 1
+C 1034 10 38 1 27 1
+C 1035 15 45 1 38 1
+C 1036 20 2 1 49 1
+LU cidade Rio estado RJ
+LP categoria Casa marca Flex
+LC id_produto 23
+R 1040 30 3 43 2
+R 1041 37 3 4 2
+R 1042 44 3 15 2
+C 1043 55 1 1 26 1
+C 1044 60 8 1 37 1
+C 1045 65 15 1 48 1
+C 1046 70 22 1 9 1
+LU cidade Vitoria estado ES
+LP categoria Casa marca Acer
+LC id_produto 43
+R 1050 0 3 3 2
+R 1051 7 3 14 2
+R 1052 14 3 25 2
+C 1053 25 21 1 36 1
+C 1054 30 28 1 47 1
+C 1055 35 35 1 8 1
+C 1056 40 42 1 19 1
+LU cidade Recife estado PE
+LP categoria Casa marca Sony
+LC id_produto 13
+R 1060 20 3 13 2
+R 1061 27 3 24 2
+R 1062 34 3 35 2
+C 1063 75 41 1 46 1
+C 1064 0 48 1 7 1
+C 1065 5 5 1 18 1
+C 1066 10 12 1 29 1
+LU cidade Rio estado RJ
+LP categoria Casa marca Flex
+LC id_produto 33
+R 1070 40 3 23 2
+R 1071 47 3 34 2
+R 1072 4 3 45 2
+C 1073 45 11 1 6 1
+C 1074 50 18 1 17 1
+C 1075 55 25 1 28 1
+C 1076 60 32 1 39 1
+LU cidade Vitoria estado ES
+LP categoria Casa marca Acer
+LC id_produto 3
+R 1080 10 3 33 2
+R 1081 17 3 44 2
+R 1082 24 3 5 2
+C 1083 15 31 1 16 1
+C 1084 20 38 1 27 1
+C 1085 25 45 1 38 1
+C 1086 30 2 1 49 1
+LU cidade Recife estado PE
+LP categoria Casa marca Sony
+LC id_produto 23
+R 1090 30 3 43 2
+R 1091 37 3 4 2
+R 1092 44 3 15 2
+C 1093 65 1 1 26 1
+C 1094 70 8 1 37 1
+C 1095 75 15 1 48 1
+C 1096 0 22 1 9 1
+LU cidade Rio estado RJ
+LP categoria Casa marca Flex
+LC id_produto 43
+R 1100 0 3 3 2
+R 1101 7 3 14 2
+R 1102 14 3 25 2
+C 1103 35 21 1 36 1
+C 1104 40 28 1 47 1
+C 1105 45 35 1 8 1
+C 1106 50 42 1 19 1
+LU cidade Vitoria estado ES
+LP categoria Casa marca Acer
+LC id_produto 13
+R 1110 20 3 13 2
+R 1111 27 3 24 2
+R 1112 34 3 35 2
+C 1113 5 41 1 46 1
+C 1114 10 48 1 7 1
+C 1115 15 5 1 18 1
+C 1116 20 12 1 29 1
+LU cidade Recife estado PE
+LP categoria Casa marca Sony
+LC id_produto 33
+R 1120 40 3 23 2
+R 1121 47 3 34 2
+R 1122 4 3 45 2
+C 1123 55 11 1 6 1
+C 1124 60 18 1 17 1
+C 1125 65 25 1 28 1
+C 1126 70 32 1 39 1
+LU cidade Rio estado RJ
+LP categoria Casa marca Flex
+LC id_produto 3
+R 1130 10 3 33 2
+R 1131 17 3 44 2
+R 1132 24 3 5 2
+C 1133 25 31 1 16 1
+C 1134 30 38 1 27 1
+C 1135 35 45 1 38 1
+C 1136 40 2 1 49 1
+LU cidade Vitoria estado ES
+LP categoria Casa marca Acer
+LC id_produto 23
+R 1140 30 3 43 2
+R 1141 37 3 4 2
+R 1142 44 3 15 2
+C 1143 75 1 1 26 1
+C 1144 0 8 1 37 1
+C 1145 5 15 1 48 1
+C 1146 10 22 1 9 1
+LU cidade Recife estado PE
+LP categoria Casa marca Sony
+LC id_produto 43
+R 1150 0 3 3 2
+R 1151 7 3 14 2
+R 1152 14 3 25 2
+C 1153 45 21 1 36 1
+C 1154 50 28 1 47 1
+C 1155 55 35 1 8 1
+C 1156 60 42 1 19 1
+LU cidade Rio estado RJ
+LP categoria Casa marca Flex
+LC id_produto 13

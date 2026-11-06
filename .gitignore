@@ -1,0 +1,32 @@
+# Build artifacts (Makefiles create these folders on demand)
+bin/
+obj/
+*.o
+
+# Python
+__pycache__/
+*.pyc
+.mplconfig/
+
+# Experiment binaries / large traces
+TP-3/experiments/results/benchmark
+TP-3/experiments/results/lackey_trace_mem.txt
+
+# LaTeX build files
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editors / OS / tools
+.vscode/
+.idea/
+.clangd
+.cache/
+.codex/
+.agents/
+.DS_Store
+vgcore.*
+core

@@ -1,0 +1,12 @@
+U 0
+P 0
+P 1
+P 2
+C 0
+R 0
+LC resultado_1 compra 0 timestamp 50 usuario 0
+produto_1 0 1 produto_2 1 2 produto_3 2 3
+LR resultado_1 reposicao 0 timestamp 60
+produto_1 0 5 produto_2 2 2
+LP resultado_1 produto 0 A 5.00 14 Cat M Novo
+usuario_1 0 1

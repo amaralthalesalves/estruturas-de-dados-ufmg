@@ -1,0 +1,33 @@
+U Ana 21 BeloHorizonte MG Brasileira
+U Bruno 24 SaoPaulo SP Brasileira
+U Carla 30 BeloHorizonte MG Argentina
+U Diego 28 Rio RJ Brasileira
+U Elisa 35 Curitiba PR Brasileira
+U Fabio 21 BeloHorizonte MG Chilena
+U Gabi 24 Recife PE Brasileira
+P Mouse 80.00 10 Informatica Logitech Novo
+P Teclado 150.00 6 Informatica Logitech Novo
+P Monitor 900.00 4 Informatica Dell Novo
+P Livro 60.00 8 Livros Pearson Usado
+P Cadeira 450.00 3 Moveis Flexform Novo
+P Webcam 250.00 5 Informatica Logitech Usado
+C 100 0 0 2 1 1
+C 105 1 0 3 2 1
+C 110 2 3 2 5 1
+C 115 3 4 4
+R 120 4 5 2 2
+C 125 3 4 4 2 2
+R 130 0 5 5 3
+C 135 5 0 4 5 2
+C 140 6 1 6
+C 145 4 1 5 3 3
+LU cidade BeloHorizonte estado MG
+LU nacionalidade Brasileira
+LP categoria Informatica marca Logitech
+LP condicao Novo categoria Moveis
+LC id_usuario 3
+LC id_produto 0 timestamp 135
+LR id_produto 2
+LR timestamp 130
+LP nome Cadeira
+LU nome Gabi

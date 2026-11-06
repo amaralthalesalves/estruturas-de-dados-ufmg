@@ -1,0 +1,33 @@
+A L
+T IA A
+T Musica P
+T Grafos A
+T Futebol P
+U Ana 20 0 2
+U Bruno 21 1 2
+U Carla 22 0 3
+U Diego 23 2
+U Eva 24 1 3
+S 0 1
+S 2 0
+S 1 2
+S 0 2
+S 3 0
+S 2 1
+LT 0
+LT 4
+LC 0
+LS 0
+LA 0
+Q 0 1
+Q 1 0
+Q 1 2
+G 4 2
+F 2
+A M
+R 0 2
+Q 0 2
+LA 0
+LC 2
+LS 2
+F 3

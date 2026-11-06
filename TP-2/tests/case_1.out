@@ -1,0 +1,33 @@
+A L
+T 0
+T 1
+T 2
+T 3
+U 0
+U 1
+U 2
+U 3
+U 4
+S Ana Bruno
+S Carla Ana
+S Bruno Carla
+S Ana Carla
+S Diego Ana
+S Carla Bruno
+LT Ana IA Grafos
+LT Eva Musica Futebol
+LC Ana Carla Diego
+LS Ana Bruno Carla
+LA Ana Carla
+Q Ana Bruno 1
+Q Bruno Ana 2
+Q Bruno Carla 3
+G Eva Grafos 0
+F Grafos 3
+A M
+R Ana Carla
+Q Ana Carla 2
+LA Ana
+LC Carla Bruno
+LS Carla Ana Bruno
+F Futebol 2
