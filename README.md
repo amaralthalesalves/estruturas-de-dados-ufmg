@@ -1,6 +1,6 @@
 # Projetos de Estruturas de Dados (DCC221 - UFMG)
 
-Trabalhos práticos (TPs) da disciplina **DCC221 - Estruturas de Dados** da Universidade Federal de Minas Gerais (UFMG), 2026/1, por Thales Alves Amaral.
+Trabalhos práticos (TPs) da disciplina **DCC221 - Estruturas de Dados** da Universidade Federal de Minas Gerais (UFMG), 2026/1.
 
 Cada projeto é um programa em C++11 orientado a comandos, construído sobre tipos abstratos de dados (TADs) implementados à mão, sem containers da STL. Todos incluem casos de teste, análise experimental e relatório.
 
